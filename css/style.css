@@ -1,0 +1,37 @@
+table {
+    border: 3px inset #808080;
+    background: #eee4c7;
+    margin-top: 12px;
+    width: 200px;
+    text-align: center;
+}
+
+table input {
+    border: 1px solid gray;
+    width: 42px;
+    margin: 1px;
+}
+
+.TextEdit {
+    width: 180px;
+    height: 16px;
+	background-color: #323250;
+    color: #00dc3f;
+    font-weight: bold;
+}
+
+.bClear{
+    background-color: #c80000;
+    color: white;
+}
+
+.bOperation{
+    background-color: #c8e6c8;
+}
+
+input{
+    background-color: #dddddd;
+}
+.bEquals{
+    background-color: #f0d2c8;
+}
